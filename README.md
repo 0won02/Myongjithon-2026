@@ -4,4 +4,4 @@
 - [Backend Repository](https://github.com/0won02/likelion1teamBE)
 
 ## 담당 역할
-기획/디자인(PM) - 서비스 기획, 화면 설계(Figma), UX 플로우, 발표자료 제작
+기획/디자인(PM) - 서비스 기획, 화면 설계(Figma,Claude Design), UX 플로우, 발표자료 제작
