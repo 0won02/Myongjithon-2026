@@ -4,8 +4,14 @@
 
 **개발 기간**: 2026.07.01 - 2026.07.17
 
+## Repositories
 - [Frontend Repository](https://github.com/0won02/likelion1teamFE)
 - [Backend Repository](https://github.com/0won02/likelion1teamBE)
 
+## 산출물
+- [명지톤_1조 라이언킹.pdf](https://github.com/user-attachments/files/30179596/_1.pdf)
+
+
+  
 ## 담당 역할
 기획/디자인(PM) - 서비스 기획, 화면 설계(Claude Design, Figma), UX 플로우, 발표자료 제작
