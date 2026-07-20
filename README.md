@@ -4,6 +4,10 @@
 
 **개발 기간**: 2026.07.01 - 2026.07.17
 
+> ⚠️ 이 리포지토리는 팀원(FE/BE)이 작성한 코드입니다. 
+> 본인은 기획/디자인(PM) 파트로 참여했습니다.
+> 
+
 ## Live Demo
 - [https://ddingchun.vercel.app/](https://ddingchun.vercel.app/)
   
