@@ -4,6 +4,9 @@
 
 **개발 기간**: 2026.07.01 - 2026.07.17
 
+## Live Demo
+- [https://ddingchun.vercel.app/](https://ddingchun.vercel.app/)
+  
 ## Repositories
 - [Frontend Repository](https://github.com/0won02/likelion1teamFE)
 - [Backend Repository](https://github.com/0won02/likelion1teamBE)
